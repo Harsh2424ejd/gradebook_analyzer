@@ -1,6 +1,4 @@
-=======================================
-        Gradebook Analyzer (Python)
-=======================================
+#        Gradebook Analyzer (Python)
 
 A simple Python command-line tool for managing and analyzing student grades. This project demonstrates fundamental Python skills, including file I/O, data structures (dictionaries and lists), modular functions, list comprehensions, and formatted output.
 
